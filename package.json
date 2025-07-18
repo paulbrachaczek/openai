@@ -1,0 +1,24 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "open ai app",
+  "main": "start.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulbrachaczek/openai.git"
+  },
+  "author": "pawel brachaczek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulbrachaczek/openai/issues"
+  },
+  "homepage": "https://github.com/paulbrachaczek/openai#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "openai": "^5.10.1"
+  }
+}
